@@ -1,4 +1,4 @@
-# heart.
+# Heart Disease Prediction Using Machine Learning: A Comparative Study of SVM, Random Forest, and Gradient Boosting
 Implemented three models 
 Example Findings Summary
 In the study I designed and implemented three machine-learning models: a Support Vector Machine (SVM), a Random Forest (RF), and a Gradient Boosting Machine (GBM) to predict the presence of heart disease using a small subset of clinical health features.
